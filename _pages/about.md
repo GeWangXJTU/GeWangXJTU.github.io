@@ -18,31 +18,34 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 Selected Publications
 ======
 ### 2026
+  * <span style="color: #00008B;">**Ge Wang**</span>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. <font color="blue">**(CCF-B, 清华A类)**<font color="blue">
 
+### 2025
+  * Dachao Han, Teng Huang, Han Ding, Cui Zhao, Fei Wang, <span style="color: #00008B;">**Ge Wang**</span>, Wei Xi. We Can Hear You with mmWave Radar! An End-to-End Eavesdropping System, IMWUT 2025. <font color="red">**(CCF-A)**<font color="red">
 
 Professional Activities
 ======
-* Program Committee Chair/Member:
-  * Student Volunteer Chair, ACM MobiSys 2025 <font color="blue">(CCF-B)<font color="blue">
-  * TPC Member, IEEE INFOCOM 2026 <font color="red">(CCF-A)<font color="red">
-  * TPC Member, IEEE ICNP 2026  <font color="blue">(CCF-B)<font color="blue">
+### Program Committee Chair/Member:
+  * Student Volunteer Chair, ACM MobiSys 2025 <font color="blue">**(CCF-B)**<font color="blue">
+  * TPC Member, IEEE INFOCOM 2026 <font color="red">**(CCF-A)**<font color="red">
+  * TPC Member, IEEE ICNP 2026  <font color="blue">**(CCF-B)**<font color="blue">
   * TPC Member, ACM SIGCOMM 2025 posters and demos
   * TPC Member, METAVERSE 2025, 2024
 
-* Academic Services:
+### Academic Services:
   * CCF YOCSEF Xi'an, Vice-Chair, 2026-2027
   * CCF YOCSEF Xi'an, Academic secretary, 2025-2026
     
-* Journal Editor:
+### Journal Editor:
   * Sensors, Special Issue, Guest Editor
   * Electronics, Special Issue, Guest Editor
 
-* Reviewer:
-  * IEEE Transactions on Mobile Computing (TMC) <font color="red">(CCF-A)<font color="red">
-  * IEEE Transactions on Networking (ToN) <font color="red">(CCF-A)<font color="red">
-  * IEEE Transactions on Information Forensics and Security (TIFS) <font color="red">(CCF-A)<font color="red">
-  * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)<font color="red">(CCF-A)<font color="red">
-  * IEEE Journal of Internet of Things (IoT-J) <font color="red">(SCI-Q1)<font color="red">
+### Reviewer:
+  * IEEE Transactions on Mobile Computing (TMC) <font color="red">**(CCF-A)**<font color="red">
+  * IEEE Transactions on Networking (ToN) <font color="red">**(CCF-A)**<font color="red">
+  * IEEE Transactions on Information Forensics and Security (TIFS) <font color="red">**(CCF-A)**<font color="red">
+  * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)<font color="red">**(CCF-A)**<font color="red">
+  * IEEE Journal of Internet of Things (IoT-J) <font color="red">**(SCI-Q1)**<font color="red">
   
 
 Selected Projects
