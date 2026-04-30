@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /cv.json/
+    url: /cv/
 
   - title: "Awards and Services"
     url: /talks/    
