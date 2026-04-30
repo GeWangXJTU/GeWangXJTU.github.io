@@ -15,6 +15,35 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 
 我每年招收2到4名硕士生，1到2名博士生，希望你具备自驱力，有良好的动手能力，优秀的毕业生会推荐到腾讯、网易等互联网公司，期待你的加入~
 
+Selected Publications
+======
+### 2026
+
+
+Professional Activities
+======
+* Program Committee Chair/Member:
+  * Student Volunteer Chair, ACM MobiSys 2025 <font color="blue">(CCF-B)<font color="blue">
+  * TPC Member, IEEE INFOCOM 2026 <font color="red">(CCF-A)<font color="red">
+  * TPC Member, IEEE ICNP 2026  <font color="blue">(CCF-B)<font color="blue">
+  * TPC Member, ACM SIGCOMM 2025 posters and demos
+  * TPC Member, METAVERSE 2025, 2024
+
+* Academic Services:
+  * CCF YOCSEF Xi'an, Vice-Chair, 2026-2027
+  * CCF YOCSEF Xi'an, Academic secretary, 2025-2026
+    
+* Journal Editor:
+  * Sensors, Special Issue, Guest Editor
+  * Electronics, Special Issue, Guest Editor
+
+* Reviewer:
+  * IEEE Transactions on Mobile Computing (TMC) <font color="red">(CCF-A)<font color="red">
+  * IEEE Transactions on Networking (ToN) <font color="red">(CCF-A)<font color="red">
+  * IEEE Transactions on Information Forensics and Security (TIFS) <font color="red">(CCF-A)<font color="red">
+  * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)<font color="red">(CCF-A)<font color="red">
+  * IEEE Journal of Internet of Things (IoT-J) <font color="red">(SCI-Q1)<font color="red">
+  
 
 Selected Projects
 ======
