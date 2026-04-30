@@ -13,7 +13,7 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 
 王鸽，西安交通大学计算机学院青年拔尖人才b类，副教授，博士生导师。曾获得CCF青年人才支持计划（原CCF青年人才托举，获奖年度全国共6人）、中国博士后创新人才支持计划（获奖年度计算机学科全国共13人）、ACM优秀博士论文奖（获奖年度陕西省共2人）等奖励。2017-2019年在UCSC [Chen Qian](https://qianlabucsc.github.io/)教授（NSF CAREER Award获得者）处交流2年。研究兴趣为无线感知、时序预测、智能决策、具身智能等。
 
-我每年招收2到4名硕士生，1到名博士生，希望你具备自驱力，有良好的动手能力，期待你的加入~
+我每年招收2到4名硕士生，1到2名博士生，希望你具备自驱力，有良好的动手能力，优秀的毕业生会推荐到腾讯、网易等互联网公司，期待你的加入~
 
 
 Selected Projects
