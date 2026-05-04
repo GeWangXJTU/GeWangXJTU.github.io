@@ -60,8 +60,10 @@ Teaching and Textbooks
     
 
 ### Textbooks
-  * Intelligent Sensing and Mobile Computing (智能感知与移动计算概论), Wei Xi, Ge Wang, Han Ding
-  * Software Engineering (4th Edition) (软件工程(第四版)), Ge Wang, Wei Xi, Fei Wang, Wenbin An, Feng Tian
+  * Intelligent Sensing and Mobile Computing, Wei Xi, <span style="color: #00008B;">**Ge Wang**</span>, Han Ding, 2026;
+    (智能感知与移动计算概论，惠维，王鸽，丁菡，高教出版社， 2026，101计划系列教材)
+  * Software Engineering (4th Edition) (软件工程(第四版)), <span style="color: #00008B;">**Ge Wang**</span>, Wei Xi, Fei Wang, Wenbin An, Feng Tian，2026
+    (软件工程（第四版），王鸽，惠维，王飞，安文斌，田锋，西安电子科技大学出版社‌， 2026)
 
 Selected Projects
 ======
