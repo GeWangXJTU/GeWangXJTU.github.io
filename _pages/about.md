@@ -19,9 +19,15 @@ Selected Publications
 ======
 ### 2026
   * <span style="color: #00008B;">**Ge Wang**</span>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. <font color="blue">(CCF-B, 清华A类)<font color="blue">
+  * Dachao Han, Teng Huang, Han Ding, Cui Zhao, Fei Wang, Ge Wang, Wei Xi，We Can Hear You with mmWave Radar! An End-to-End Eavesdropping System，ACM IMWUT, 2026, <font color="red">(CCF-A)<font color="red">
+  * Cui Zhao, Qiumin Luo, Han Ding, Ge Wang, Kun Zhao, Zhi Wang, Wei Xi, Jizhong Zhao, mm-Fall: Practical and Robust Fall Detection via mmWave Signals, IEEE Transactions on Mobile Computing (TMC), 2026, <font color="red">(CCF-A)<font color="red">
+
+
 
 ### 2025
-  * Dachao Han, Teng Huang, Han Ding, Cui Zhao, Fei Wang, <span style="color: #00008B;">**Ge Wang**</span>, Wei Xi. We Can Hear You with mmWave Radar! An End-to-End Eavesdropping System, IMWUT 2025. <font color="red">(CCF-A)<font color="red">
+  * Bo Lan, Pei Li, Jiaxi Yin, Yunpeng Song, Ge Wang, Han Ding, Jinsong Han, Fei Wang,, XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses, IMWUT 2025. <font color="red">(CCF-A)<font color="red">
+  * Cui Zhao, Guotong Fang, Han Ding, Xinhui Liu, Fei Wang, Ge Wang, Kun Zhao, Zhi Wang, Wei Xi, Federated Multi-Source Domain Adaptation for mmWave-Based Human Activity Recognition, IEEE Transactions on Mobile Computing (TMC), 2026, <font color="red">(CCF-A)<font color="red">
+
 
 Professional Activities
 ======
