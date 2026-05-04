@@ -92,11 +92,11 @@ Professional Activities
   * Student Volunteer Chair, ACM MobiSys 2025<span style="color: #0000FF;">**(CCF-B)**</span>
   * TPC Member, IEEE INFOCOM 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
   * TPC Member, IEEE ICNP 2026 <span style="color: #0000FF;">**(CCF-B)**</span>
-  * TPC Member, IEEE ICCCN 2026  <font color="black">(CCF-C)<font color="black">
+  * TPC Member, IEEE ICCCN 2026 <span style="color: #1C1C1C;">**(CCF-C)**</span>
   * TPC Member, ACM SIGCOMM 2024 posters and demos <span style="color: #FF0000;">**(CCF-A)**</span>
   * TPC Member, METAVERSE 2025, 2024
-  * TPC Member, IFIP Networking, 2020 <font color="black">(CCF-C)<font color="black">
-  * TPC Member, IEEE INFOCOM Workshop on New IP，2020
+  * TPC Member, IFIP Networking, 2020  <span style="color: #1C1C1C;">**(CCF-C)**</span>
+  * TPC Member, IEEE INFOCOM Workshop on New IP，2020 <span style="color: #FF0000;">**(CCF-A)**</span>
 
     
 ### Journal Editor:
