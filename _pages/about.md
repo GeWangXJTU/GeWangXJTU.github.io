@@ -139,17 +139,8 @@ Teaching and Textbooks
     
 
 ### Textbooks
-  * Wei Xi, <span style="color: #00008B;">**Ge Wang**</span>, Han Ding, Intelligent Sensing and Mobile Computing, 2026;
-    (惠维，<span style="color: #00008B;">**王鸽**</span>,丁菡，智能感知与移动计算概论，高教出版社， 2026，101计划系列教材)
-  * <span style="color: #00008B;">**Ge Wang**</span>, Wei Xi, Fei Wang, Wenbin An, Feng Tian，Software Engineering (4th Edition), 2026
-    (<span style="color: #00008B;">**王鸽**</span>，惠维，王飞，安文斌，田锋，软件工程（第四版），西安电子科技大学出版社‌， 2026)
+  * Wei Xi, <span style="color: #4876FF;">**Ge Wang**</span>, Han Ding, Intelligent Sensing and Mobile Computing, 2026;
+    (惠维，<span style="color: #4876FF;">**王鸽**</span>,丁菡，智能感知与移动计算概论，高教出版社， 2026，101计划系列教材)
+  * <span style="color: #4876FF;">**Ge Wang**</span>, Wei Xi, Fei Wang, Wenbin An, Feng Tian，Software Engineering (4th Edition), 2026
+    (<span style="color: #4876FF;">**王鸽**</span>，惠维，王飞，安文斌，田锋，软件工程（第四版），西安电子科技大学出版社‌， 2026)
 
-Selected Projects
-======
-
-![Editing a Markdown file for a talk](/images/RF-carer.png)
-
-**RF-Carer [SenSys'26]**
-Respiratory monitoring using wireless technologies has garnered significant attention for its potential in healthcare, smart cockpits, and various applications. Though extensively studied, existing systems face practical challenges in adapting to new data domains without substantial customization efforts. Current solutions attempt to address this limitation through domain-independent feature extraction or cross-domain feature translation, employing either knowledge-based sensing models or data-driven neural networks. However, these approaches typically require additional data collection or model retraining for new domains, significantly hindering their practical deployment. This project introduces RF-Carer, a fully zero-effort cross-domain respiration monitoring system. Our key innovation lies in building an explainable propagation model to transform any heterogeneous signals under unknown domains into a unified form in the signal processing layer. To further address accidental irrelevant factors, we propose to align the feature spaces while suppressing the noisy ones with contrastive learning. On this basis, we develop a one-fits-all model. To the best of our knowledge, RF-Carer is the first zero-effort cross-domain respiration monitoring work with wireless RF signals and would be a fundamental step toward real-world deployments.
-- [Code](https://github.com/GeWangXJTU/RF-Carer)
-- [Dataset](https://drive.google.com/drive/folders/1fX-nAjrjg7fBlwBQtSeDgTav1de6OnMJ?usp=sharing)
