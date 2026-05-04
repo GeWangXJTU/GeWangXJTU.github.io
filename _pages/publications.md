@@ -62,8 +62,8 @@ redirect_from:
  
 
 ### 2020 and Before
-  * <span style="color: #4876FF;">Ge Wang</span>, Haofan Cai, Chen Qian, Jinsong Han, Shouqian Shi, Xin Li, Han Ding, Wei Xi, Jizhong Zhao, Hu-Fu: Replay-resilient RFID Authentication. IEEE/ACM Transactions on Networking (ToN) 2020. <span style="color: #FF0000;">**(CCF-A)**</span>​​  
-​​  * <span style="color: #4876FF;">Ge Wang</span>, Chen Qian, Kaiyan Cui, Xiaofeng Shi, Han Ding, Wei Xi, Jizhong Zhao, Jinsong Han, A Universal Method to Combat Multipaths for RFID Sensing.​​​​​​​ IEEE INFOCOM 2020.  <span style="color: #FF0000;">**(CCF-A)**</span>
+  * <span style="color: #4876FF;">Ge Wang</span>, Haofan Cai, Chen Qian, Jinsong Han, Shouqian Shi, Xin Li, Han Ding, Wei Xi, Jizhong Zhao, Hu-Fu: Replay-resilient RFID Authentication. IEEE/ACM Transactions on Networking (ToN) 2020. <span style="color: #FF0000;">**(CCF-A)**</span>​​
+  * <span style="color: #4876FF;">Ge Wang</span>, Chen Qian, Kaiyan Cui, Xiaofeng Shi, Han Ding, Wei Xi, Jizhong Zhao, Jinsong Han, A Universal Method to Combat Multipaths for RFID Sensing.​​​​​​​ IEEE INFOCOM 2020.  <span style="color: #FF0000;">**(CCF-A)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Chen Qian, Longfei Shangguan, Han Ding, Jinsong Han, Kaiyan Cui, Wei Xi, Jizhong Zhao, HMO: Ordering RFID Tags with Static Devices in Mobile Environments, IEEE Transactions on Mobile Computing (TMC), 2019, <span style="color: #FF0000;">**(CCF-A)**</span>
   * Jinsong Han, Chen Qian, Yuqin Yang, Ge Wang*（Corresponding Author）, Han Ding, Xin Li, Kui Ren, Butterfly: Environment-Independent Physical-Layer Authentication for Passive RFID, ACM IMWUT 2019. <span style="color: #FF0000;">**(CCF-A)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Chen Qian, Kaiyan Cui, Han Ding, Haofan Cai, Wei Xi, Jinsong Han, Jizhong Zhao, A (Near) Zero-cost and Universal Method to Combat Multipaths for RFID Sensing, IEEE ICNP 2019.<span style="color: #0000FF;">**(CCF-B)**</span>
