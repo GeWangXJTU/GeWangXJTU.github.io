@@ -9,16 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /cv-json/
+    url: /publications/
 
   - title: "Awards and Services"
-    url: /talks/    
+    url: /awards/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Project"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
