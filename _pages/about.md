@@ -29,7 +29,8 @@ Professional Activities
   * Student Volunteer Chair, ACM MobiSys 2025 <font color="blue">(CCF-B)<font color="blue">
   * TPC Member, IEEE INFOCOM 2026 <font color="red">(CCF-A)<font color="red">
   * TPC Member, IEEE ICNP 2026  <font color="blue">(CCF-B)<font color="blue">
-  * TPC Member, ACM SIGCOMM 2025 posters and demos
+  * TPC Member, IEEE ICCCN 2026  <font color="black">(CCF-C)<font color="black">
+  * TPC Member, ACM SIGCOMM 2024 posters and demos
   * TPC Member, METAVERSE 2025, 2024
 
 ### Academic Services:
@@ -37,8 +38,8 @@ Professional Activities
   * CCF YOCSEF Xi'an, Academic secretary, 2025-2026
     
 ### Journal Editor:
-  * Sensors, Special Issue, Guest Editor
-  * Electronics, Special Issue, Guest Editor
+  * Sensors, Special Issue [Sensor Networks and Communication with AI](https://www.mdpi.com/journal/sensors/special_issues/J5AWS3RSWB), Guest Editor
+  * Electronics, Special Issue [IoT Sensing and Generalization](https://www.mdpi.com/journal/electronics/special_issues/ZL59QKJU66), Guest Editor
 
 ### Reviewer:
   * IEEE Transactions on Mobile Computing (TMC) <font color="red">(CCF-A)<font color="red">
@@ -46,6 +47,21 @@ Professional Activities
   * IEEE Transactions on Information Forensics and Security (TIFS) <font color="red">(CCF-A)<font color="red">
   * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)  <font color="red">(CCF-A)<font color="red">
   * IEEE Journal of Internet of Things (IoT-J) <font color="red">(CCF-A)<font color="red">
+
+Teaching and Textbooks
+======
+### Undergraduate Courses
+  * Operating System (操作系统)
+  * Software Engineering (软件工程)
+  * Intelligent sensing and mobile computing (智能感知与移动计算)
+
+### Postgraduate Courses
+  * Edge-cloud Computing (端边云协同的数据聚合与计算模型)
+    
+
+### Textbooks
+  * Intelligent Sensing and Mobile Computing (智能感知与移动计算概论), Wei Xi, Ge Wang, Han Ding
+  * Software Engineering (4th Edition) (软件工程(第四版)), Ge Wang, Wei Xi, Fei Wang, Wenbin An, Feng Tian
 
 Selected Projects
 ======
