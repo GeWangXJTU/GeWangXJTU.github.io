@@ -16,12 +16,17 @@ redirect_from:
   * Dachao Han, Teng Huang, Han Ding#, Cui Zhao, Fei Wang, <span style="color: #4876FF;">Ge Wang</span> Wei Xi, mmWave-Aided Unified Speech Enhancement and Separation without Speaker Count Prior, IEEE INFOCOM 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Cui Zhao, Qiumin Luo, Han Ding, <span style="color: #4876FF;">Ge Wang</span> Kun Zhao, Zhi Wang, Wei Xi, Jizhong Zhao, mm-Fall: Practical and Robust Fall Detection via mmWave Signals, IEEE Transactions on Mobile Computing (TMC), 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Mingzhi Lin, Teng Huang, Han Ding, Cui Zhao, Fei Wang, <span style="color: #4876FF;">Ge Wang</span> Wei Xi, Active Domain Adaptation for mmWave-based HAR via Rényi Entropy-based Uncertainty Estimation, IEEE Transactions on Mobile Computing (TMC), 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
+  * Fei Deng, Yinghui He, Chuntong Chu, Ge Wang, Han Ding, Jinsong Han, Fei Wang, MobiDiary: Autoregressive Action Captioning with Wearable Devices and Wireless Signals. CoRR 2026.
+  * Pei Li, Jiaxi Yin, Lei Ouyang, Shihan Pan, Ge Wang, Han Ding, Fei Wang WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization? CoRR 2026
+  * Linwei Zhai, Han Ding, Mingzhi Lin, Cui Zhao, Fei-yue Wang, Ge Wang, Zhi Wang, Wei Xi, VP-VAE: Rethinking Vector Quantization via Adaptive Vector Perturbation. CoRR 2026
 
 ### 2025
+  * Jiazheng Chen, Ge Wang, Zhe Chen, Fei Wang, Wei Xi, Jinsong Han, Poster: Zero-effort Cross-domain Wireless Respiration Monitoring under Free Body Movement, ACM MobiCom Poster 2025.
   * Bo Lan, Pei Li, Jiaxi Yin, Yunpeng Song, <span style="color: #4876FF;">Ge Wang</span> Han Ding, Jinsong Han, Fei Wang,, XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses, ACM IMWUT 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Cui Zhao, Guotong Fang, Han Ding, Xinhui Liu, Fei Wang, <span style="color: #4876FF;">Ge Wang</span> Kun Zhao, Zhi Wang, Wei Xi, Federated Multi-Source Domain Adaptation for mmWave-Based Human Activity Recognition, IEEE Transactions on Mobile Computing (TMC), 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Teng Huang, Han, Ding, Wenxin Sun, Cui Zhao, <span style="color: #4876FF;">Ge Wang</span> Fei Wang, Kun Zhao, Zhi Wang, Wei Xi, One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation, IEEE INFOCOM 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Yuance Chang, Han Ding#, Feng Cao, Cui Zhao, Fei Wang, <span style="color: #4876FF;">Ge Wang</span> Zhi Wang, Wei Xi, mmYodar+: Robust Human Detection using mmWave Signals, IEEE Internet of Things Journal (IoT-J) 2025. <span style="color: #FF0000;">**(Q1, IF=10.238)**</span>
+  * Dachao Han, Teng Huang, Han Ding, Cui Zhao, Fei Wang, Ge Wang, Wei Xi, We Can Hear You with mmWave Radar! An End-to-End Eavesdropping System, ACM IMWUT 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
 
 ### 2024
   * Han Ding, Linwei Zhai, Cui Zhao#, Fei Wang, <span style="color: #4876FF;">Ge Wang</span> Wei Xi, Zhi Wang, Jizhong Zhao, Genre Classification Empowered by Knowledge-Embedded Music Representation, IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) 2024.<span style="color: #0000FF;">**(CCF-B)**</span>
