@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Awards
+======
+  * 2024 陕西省科技进步二等奖（排名2）
+  * 2023 陕西省教育厅自然奖一等奖（排名5）
+  * 2022 CCF青年人才发展计划（原CCF青年托举）（该年度全国共6人）
+  * 2021 陕西省科学技术进步奖三等奖（排名3）
+  * 2020 中国博士后创新人才支持计划（博新计划）（该年度全国计算机学科共13人）
+  * 2020 ACM西安优秀博士论文 （该年度陕西省共2人）
+  * 2018 博士国家奖学金
+  * 2018 Tapia Travel Grant
+  * 2018 USENIX NSDI Travel Grant
+  * 2018 ACM Mobicom Travel Grant
+  * 2017 ACM Mobicom Travel Grant
+  * 2015 ACM MSCC Best Paper Award
+
 Services
 ======
 ### Program Committee Chair/Member:
@@ -52,3 +67,4 @@ Services
 ### Academic Services:
   * CCF YOCSEF Xi'an, Vice-Chair, 2026-2027
   * CCF YOCSEF Xi'an, Academic secretary, 2025-2026
+
