@@ -29,6 +29,7 @@ Selected Publications
   * Cui Zhao, Guotong Fang, Han Ding, Xinhui Liu, Fei Wang,  <span style="color: #4876FF;">Ge Wang</span>, Kun Zhao, Zhi Wang, Wei Xi, Federated Multi-Source Domain Adaptation for mmWave-Based Human Activity Recognition, IEEE Transactions on Mobile Computing (TMC), 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Teng Huang, Han, Ding, Wenxin Sun, Cui Zhao,  <span style="color: #4876FF;">Ge Wang</span>, Fei Wang, Kun Zhao, Zhi Wang, Wei Xi, One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation, IEEE INFOCOM 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Yuance Chang, Han Ding#, Feng Cao, Cui Zhao, Fei Wang,  <span style="color: #4876FF;">Ge Wang</span>, Zhi Wang, Wei Xi, mmYodar+: Robust Human Detection using mmWave Signals, IEEE Internet of Things Journal (IoT-J) 2025. <span style="color: #FF0000;">**(Q1, IF=10.238)**</span>
+  * Dachao Han, Teng Huang, Han Ding, Cui Zhao, Fei Wang, Ge Wang, Wei Xi, We Can Hear You with mmWave Radar! An End-to-End Eavesdropping System, ACM IMWUT 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
 
 ### 2024
   * Han Ding, Linwei Zhai, Cui Zhao#, Fei Wang,  <span style="color: #4876FF;">Ge Wang</span>, Wei Xi, Zhi Wang, Jizhong Zhao, Genre Classification Empowered by Knowledge-Embedded Music Representation, IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) 2024.<span style="color: #0000FF;">**(CCF-B)**</span>
