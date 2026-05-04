@@ -12,7 +12,7 @@ redirect_from:
 
 ### 2026
   * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. <span style="color: #0000FF;">**(CCF-B, 清华A类)**</span>
-  * 胡玉姣，<span style="color: #00008B;">**王鸽**</span>*，张剑阳，仲国强，贺琛，许鹏飞，迈向真实世界：开放场景具身智能时空认知的目标与落地探索, 计算，2026.
+  * 胡玉姣，<span style="color: #4876FF;">**王鸽**</span>*，张剑阳，仲国强，贺琛，许鹏飞，迈向真实世界：开放场景具身智能时空认知的目标与落地探索, 计算，2026.
   * Fei Wang, Tingting Zhang, Wei Xi, Han Ding, <span style="color: #4876FF;">Ge Wang</span>, Di Zhang, Yuanhao Cui, Fan Liu, Jinsong Han, Jie Xu, Tony Xiao Han, A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects, IEEE Communications Surveys & Tutorials, 2026. <span style="color: #FF0000;">**(Q1, IF=46.7)**</span>
   * Dachao Han, Teng Huang, Han Ding#, Cui Zhao, Fei Wang, <span style="color: #4876FF;">Ge Wang</span>, Wei Xi, mmWave-Aided Unified Speech Enhancement and Separation without Speaker Count Prior, IEEE INFOCOM 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
   * Cui Zhao, Qiumin Luo, Han Ding, <span style="color: #4876FF;">Ge Wang</span>, Kun Zhao, Zhi Wang, Wei Xi, Jizhong Zhao, mm-Fall: Practical and Robust Fall Detection via mmWave Signals, IEEE Transactions on Mobile Computing (TMC), 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
@@ -40,7 +40,7 @@ redirect_from:
   * Han Ding, Wenjing Song, Fei Wang, <span style="color: #4876FF;">Ge Wang</span>, Wei Xi, Jizhong Zhao, Knowledge-graph augmented music representation for genre classification, IEEE ICASSP 2023. <span style="color: #0000FF;">**(CCF-B)**</span>
   * Chang Yuance; Han Ding; Dachao Han; Teng Zhang; Ge Wang; Cui Zhao; Fei Wang; Wei Xi; Jizhong Zhao, mmYodar: Lightweight and Robust Object Detection using mmWave Signals, IEEE SECON 2023. <span style="color: #0000FF;">**(CCF-B)**</span>
   * Junjie Xie, Chen Qian, Deke Guo, Xin Li, <span style="color: #4876FF;">Ge Wang</span>, Honghui Chen, A Novel Data Placement and Retrieval Service for Cooperative Edge Clouds. IEEE Transactions on Cloud Computing (TCC) 2023. <span style="color: #1C1C1C;">**(CCF-C)**</span>
-  * 肖杨, 秦建阳, 李肯立, <span style="color: #00008B;">**王鸽**</span>, 李瑞, 廖清。基于图对比学习的多模态交通流量协同预测方法，计算机科学，2023. 
+  * 肖杨, 秦建阳, 李肯立, <span style="color: #4876FF;">**王鸽**</span>, 李瑞, 廖清。基于图对比学习的多模态交通流量协同预测方法，计算机科学，2023. 
 
 ### 2022
   * <span style="color: #4876FF;">Ge Wang</span>, Xiaofeng Shi, Haofan Cai, Chen Qian, Han Ding, Wei Xi, Kun Zhao, Jizhong Zhao, Jinsong Han, A Generalized Method to Combat Multipaths for RFID Sensing. IEEE/ACM Transactions on Networking (ToN) 2022. <span style="color: #FF0000;">**(CCF-A)**</span>
