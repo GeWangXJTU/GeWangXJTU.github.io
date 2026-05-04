@@ -1,11 +1,3 @@
-<img width="504" height="53" alt="图片" src="https://github.com/user-attachments/assets/48f2aa99-f6cb-4466-8242-06ca6c4ff0d8" />---
-permalink: /
-title: "Ge Wang"
-author_profile: true
-redirect_from: 
-  - /publications/
-  - /about.html
----
 Publications
 ======
 ### 2026
