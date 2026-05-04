@@ -26,7 +26,9 @@ To the best of our knowledge, RF-Carer is the first zero-effort cross-domain res
 
 <p>    
 <img  src="/images/xrfv2.png"  width="350"  align="left" />
+  
 Human action recognition usually assigns a label to a short, isolated action. XRF V2 moves toward a richer smart-home setting: a person performs continuous daily routines, the system localizes each action with start and end times, and those action tuples can be passed to an LLM agent to summarize behavior, answer task-oriented questions, or support home and health assistants.
+The dataset integrates Wi-Fi CSI, IMU streams from consumer devices, and synchronized RGB-D-IR video. It was collected from 16 volunteers across three indoor environments: dining room, study room, and bedroom. After filtering incomplete recordings, XRF V2 contains 853 valid multimodal sequences and 16 h 16 min 8 s of data.
 </p>
 - [Website](https://aiotgroup.github.io/labpages/papers/xrf-v2-a-dataset-for-action-summarization-with-wi-fi-signals-and-imus-in-phones-watches-earbuds-and-glasses/index.html)
-- [Code and Dataset](https://drive.google.com/drive/folders/1fX-nAjrjg7fBlwBQtSeDgTav1de6OnMJ?usp=sharing](https://github.com/aiotgroup/XRFV2)
+- [Code and Dataset](https://github.com/aiotgroup/XRFV2)
