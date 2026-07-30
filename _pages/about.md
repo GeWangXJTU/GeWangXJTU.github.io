@@ -18,6 +18,7 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 Selected Publications
 ======
 ### 2026
+  * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Rui Xiao, Fusang Zhang*, Fei Wang, Shouqian Shi, Han Ding, Cui Zhao, Wei Xi, One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction, ACM IMWUT 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. <span style="color: #0000FF;">**(CCF-B, 清华A类)**</span>
   * Fei Wang, Tingting Zhang, Wei Xi, Han Ding, <span style="color: #4876FF;">Ge Wang</span>, Di Zhang, Yuanhao Cui, Fan Liu, Jinsong Han, Jie Xu, Tony Xiao Han, A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects, IEEE Communications Surveys & Tutorials, 2026. <span style="color: #FF0000;">**(Q1, IF=46.7)**</span>
   * Dachao Han, Teng Huang, Han Ding#, Cui Zhao, Fei Wang, <span style="color: #4876FF;">Ge Wang</span>, Wei Xi, mmWave-Aided Unified Speech Enhancement and Separation without Speaker Count Prior, IEEE INFOCOM 2025. <span style="color: #FF0000;">**(CCF-A)**</span>
