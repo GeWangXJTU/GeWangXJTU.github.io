@@ -11,6 +11,7 @@ redirect_from:
 
 
 ### 2026
+  * Ruiwen Xu, <span style="color: #4876FF;">Ge Wang*</span>, Junhua Jiang, Jiahao Xu, Ruihan Liu, He Yang, Fei Wang, Wei Xi, IEEE Transactions on Industrial Informatics(TII) 2026. <span style="color: #FF0000;">**(Q1)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Rui Xiao, Fusang Zhang*, Fei Wang, Shouqian Shi, Han Ding, Cui Zhao, Wei Xi. One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction, ACM IMWUT 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. <span style="color: #0000FF;">**(CCF-B, 清华A类)**</span>
   * 胡玉姣，<span style="color: #4876FF;">**王鸽**</span>*，张剑阳，仲国强，贺琛，许鹏飞，迈向真实世界：开放场景具身智能时空认知的目标与落地探索, 计算，2026.
