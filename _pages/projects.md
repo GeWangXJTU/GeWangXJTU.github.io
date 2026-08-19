@@ -16,7 +16,7 @@ redirect_from:
 In recent years, Non-Line-of-Sight (NLoS) 3D object reconstruction has attracted enormous attention. Traditional approaches, while becoming increasingly accurate, rely on time-consuming two-dimensional (2D) scanning. This paper presents One2Three, an efficient 3D object reconstruction system with only one-dimensional (1D) scanning. One2Three proposes two mechanisms, Aliasing Signal Decoupling (ASD) and Simulated Multi-Size Synthetic Aperture Radar (SMS-SAR). Since the RF signal is highly affected by unknown yet prevalent environmental factors, leading to non-negligible inconsistencies across different scenes for the same object, we propose an Aliasing Signal Decoupling (ASD) mechanism that decouples the entangled signals of the target object and background reflections by analyzing the spatial-temporal correlations between the RF signals and the depth images. Then, we feed the pure object RF signals into our SMS-SAR module, which designs a multi-layer multi-scale convolution block to simulate a multi-resolution Synthetic Aperture Radar to learn the reconstruction principles.  
 We conduct comprehensive experiments with 102 objects in 21 different environments. The results show that One2Three achieves comparable performance with the state-of-the-art 2D scanning approaches while reducing the time cost by $50\times\sim 200\times$ under the same scanning speed. One2Three also works well under complex situations, such as untrained objects, unseen environments, \etc. Our code and datasets will be released with this paper. 
 </p>
-- [Code]([https://github.com/GeWangXJTU/RF-Carer](https://github.com/gdzchensir200127/One2Three)
+- [Code](https://github.com/gdzchensir200127/One2Three)
 
 ### RF-Carer [SenSys'26]
 
