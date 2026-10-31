@@ -11,12 +11,13 @@ redirect_from:
 
 Awards
 ======
+  * 2026 ACM西安新星奖 （该年度陕西省共3人）
   * 2024 陕西省科技进步二等奖（排名2）
   * 2023 陕西省教育厅自然奖一等奖（排名5）
   * 2022 CCF青年人才发展计划（原CCF青年托举）（该年度全国共6人）
   * 2021 陕西省科学技术进步奖三等奖（排名3）
   * 2020 中国博士后创新人才支持计划（博新计划）（该年度全国计算机学科共13人）
-  * 2020 ACM西安优秀博士论文 （该年度陕西省共2人）
+  * 2020 ACM西安优秀博士论文 （该年度陕西省共3人）
   * 2018 博士国家奖学金
   * 2018 Tapia Travel Grant
   * 2018 USENIX NSDI Travel Grant
@@ -27,6 +28,8 @@ Awards
 Services
 ======
 ### Program Committee Chair/Member:
+  * N2Women Organizor, ACM Ubicomp 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
+  * Tutorial Organizor, ACM Ubicomp 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
   * Student Volunteer Chair, ACM MobiSys 2025<span style="color: #0000FF;">**(CCF-B)**</span>
   * TPC Member, IEEE INFOCOM 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
   * TPC Member, IEEE ICNP 2026 <span style="color: #0000FF;">**(CCF-B)**</span>
