@@ -40,6 +40,8 @@ Selected Publications
 Professional Activities
 ======
 ### Program Committee Chair/Member:
+  * N2Women Organizor, ACM Ubicomp 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
+  * Tutorial Organizor, ACM Ubicomp 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
   * Student Volunteer Chair, ACM MobiSys 2025<span style="color: #0000FF;">**(CCF-B)**</span>
   * TPC Member, IEEE INFOCOM 2026 <span style="color: #FF0000;">**(CCF-A)**</span>
   * TPC Member, IEEE ICNP 2026 <span style="color: #0000FF;">**(CCF-B)**</span>
