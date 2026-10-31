@@ -17,7 +17,7 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 
 Selected Publications
 ======
-  * Ruiwen Xu, <span style="color: #4876FF;">Ge Wang*</span>, Junhua Jiang, Jiahao Xu, Ruihan Liu, He Yang, Fei Wang, Wei Xi, IEEE Transactions on Industrial Informatics(TII) 2026. <span style="color: #FF0000;">**(Q1)**</span>
+  * Ruiwen Xu, <span style="color: #4876FF;">Ge Wang*</span>, Junhua Jiang, Jiahao Xu, Ruihan Liu, He Yang, Fei Wang, Wei Xi. LagAttention: Modeling Temporal Asynchrony in Multivariate Time Series Forecasting, IEEE Transactions on Industrial Informatics(TII) 2026. <span style="color: #FF0000;">**(Q1)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Rui Xiao, Fusang Zhang, Fei Wang, Shouqian Shi, Han Ding, Cui Zhao, Wei Xi, One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction, ACM IMWUT 2026. <span style="color: #FF0000;">**(CCF-A)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. <span style="color: #0000FF;">**(CCF-B, 清华A类)**</span>
   * <span style="color: #4876FF;">Ge Wang</span>, Lubing Han, Yuance Chang, Yuting Shi, Chen Qian, Cong Zhao, Han Ding*, Wei Xi, Cui Zhao, Jizhong Zhao，Cross-technology Communication between Visible Light and Battery-free RFIDs, ACM IMWUT 2023. <span style="color: #FF0000;">**(CCF-A)**</span>
