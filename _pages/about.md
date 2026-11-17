@@ -15,7 +15,7 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 
 我每年招收2到4名硕士生，1到2名博士生，希望你具备自驱力，有良好的动手能力，优秀的毕业生会推荐到腾讯、网易等互联网公司，期待你的加入~
 
-Selected Publications (*Corresponding Author)
+Selected Publications 
 ======
 (*Corresponding Author)
   * <span style="color: #008B00;">**【TII’26】**</span> Ruiwen Xu, <u>Ge Wang*</u>, Junhua Jiang, Jiahao Xu, Ruihan Liu, He Yang, Fei Wang, Wei Xi. LagAttention: Modeling Temporal Asynchrony in Multivariate Time Series Forecasting, IEEE Transactions on Industrial Informatics(TII) 2026. **(Q1)**
