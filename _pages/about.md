@@ -17,6 +17,7 @@ I'm looking for self-motivated Master students and Ph.D students. Previous gradu
 
 Selected Publications (*Corresponding Author)
 ======
+(*Corresponding Author)
   * <span style="color: #008B00;">**【TII’26】**</span> Ruiwen Xu, <u>Ge Wang*</u>, Junhua Jiang, Jiahao Xu, Ruihan Liu, He Yang, Fei Wang, Wei Xi. LagAttention: Modeling Temporal Asynchrony in Multivariate Time Series Forecasting, IEEE Transactions on Industrial Informatics(TII) 2026. **(Q1)**
   * <span style="color: #FF8C00;">**【IMWUT’26】**</span> <u>Ge Wang</u>, Jiazheng Chen, Rui Xiao, Fusang Zhang, Fei Wang, Shouqian Shi, Han Ding, Cui Zhao, Wei Xi, One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction, ACM IMWUT 2026. **(CCF-A)**
   * <span style="color: #0000FF;">**【SenSys’26】**</span> <u>Ge Wang</u>, Jiazheng Chen, Zhe Chen*, Fei Wang, Cong Zhao, Jianan Wang, Han Ding, Cui Zhao, Wei Xi, Jinsong Han. Zero-effort Cross-domain Wireless Respiration Monitoring underFree Movements with commercial UWB devices, ACM SenSys 2026. **(CCF-B, 清华A类)**
